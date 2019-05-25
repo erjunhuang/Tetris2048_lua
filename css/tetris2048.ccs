@@ -1,0 +1,108 @@
+<Solution>
+  <PropertyGroup Name="tetris2048" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="tetris2048">
+          <Folder Name="res">
+            <Folder Name="Font">
+              <TTF Name="eurof55.ttf" />
+              <TTF Name="fangzheng.ttf" />
+            </Folder>
+            <Folder Name="ICON">
+              <Image Name="1024.png" />
+              <Image Name="114.png" />
+              <Image Name="120.png" />
+              <Image Name="128.png" />
+              <Image Name="144.png" />
+              <Image Name="152.png" />
+              <Image Name="16.png" />
+              <Image Name="167.png" />
+              <Image Name="180.png" />
+              <Image Name="20.png" />
+              <Image Name="256.png" />
+              <Image Name="28.png" />
+              <Image Name="29.png" />
+              <Image Name="32.png" />
+              <Image Name="40.png" />
+              <Image Name="48.png" />
+              <Image Name="512.png" />
+              <Image Name="57.png" />
+              <Image Name="58.png" />
+              <Image Name="60.png" />
+              <Image Name="72.png" />
+              <Image Name="76.png" />
+              <Image Name="80.png" />
+              <Image Name="87.png" />
+            </Folder>
+            <Folder Name="nums">
+              <Image Name="1024.png" />
+              <Image Name="128.png" />
+              <Image Name="16.png" />
+              <Image Name="2.png" />
+              <Image Name="2048.png" />
+              <Image Name="256.png" />
+              <Image Name="32.png" />
+              <Image Name="4.png" />
+              <Image Name="4096.png" />
+              <Image Name="512.png" />
+              <Image Name="64.png" />
+              <Image Name="8.png" />
+              <Image Name="8192.png" />
+              <Image Name="Bmobsprite.png" />
+              <Image Name="BolckBG1.png" />
+              <Image Name="BolckBG2.png" />
+            </Folder>
+            <Folder Name="other">
+              <Image Name="back.png" />
+              <Image Name="BG.jpg" />
+              <Image Name="bigDialogBG.png" />
+              <Image Name="BtnType1.png" />
+              <Image Name="BtnType2.png" />
+              <Image Name="BtnType3.png" />
+              <Image Name="Cancle.png" />
+              <Image Name="Continue.png" />
+              <Image Name="continueBtn.png" />
+              <Image Name="DialogBG.png" />
+              <Image Name="GameBG.png" />
+              <Image Name="GridBG.png" />
+              <Image Name="HighScore.png" />
+              <Image Name="Home.png" />
+              <Image Name="lianxiao3.png" />
+              <Image Name="lianxiao5.png" />
+              <Image Name="lianxiao7.png" />
+              <Image Name="Logo.png" />
+              <Image Name="moneyBGType1.png" />
+              <Image Name="moneyBGType2.png" />
+              <Image Name="moneyBtn.png" />
+              <Image Name="moneyIcon.png" />
+              <Image Name="NoMovesLeft.png" />
+              <Image Name="OK.png" />
+              <Image Name="Pause.png" />
+              <Image Name="Play.png" />
+              <Image Name="PlayerStat.png" />
+              <Image Name="playGameBtn.png" />
+              <Image Name="quit.png" />
+              <Image Name="Restart.png" />
+              <Image Name="Revive.png" />
+              <Image Name="Score.png" />
+              <Image Name="ScoreBG.png" />
+              <Image Name="Settings.png" />
+              <Image Name="showVideo.png" />
+              <Image Name="sound.png" />
+              <Image Name="TopBG.png" />
+            </Folder>
+            <Folder Name="Splash">
+              <Image Name="Splash.jpg" />
+            </Folder>
+            <Image Name="SkardFlatAtlas.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="ui">
+          <Project Name="MenuView_UI.csd" Type="Layer" />
+          <Project Name="PlayView_UI.csd" Type="Layer" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
